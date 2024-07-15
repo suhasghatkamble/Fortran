@@ -1,0 +1,3 @@
+first run write file code
+then secondly run read file code
+lastly run students_record code file

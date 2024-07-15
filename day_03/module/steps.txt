@@ -1,0 +1,2 @@
+sh compile_module.sh
+./a.out
